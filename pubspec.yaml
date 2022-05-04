@@ -37,6 +37,8 @@ dependencies:
   google_fonts: ^2.3.1
   flutter_svg:
   animated_text_kit:
+  url_launcher:
+  firebase_core: ^1.14.0
 
 dev_dependencies:
   flutter_test:
